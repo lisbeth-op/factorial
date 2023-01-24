@@ -1,0 +1,15 @@
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\bin\Debug\net6.0\Factorial.exe
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\bin\Debug\net6.0\Factorial.deps.json
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\bin\Debug\net6.0\Factorial.runtimeconfig.json
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\bin\Debug\net6.0\Factorial.dll
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\bin\Debug\net6.0\Factorial.pdb
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.AssemblyReference.cache
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.AssemblyInfo.cs
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.dll
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\refint\Factorial.dll
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.pdb
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\Factorial.genruntimeconfig.cache
+C:\Users\orteg\OneDrive\Escritorio\aplicada1\Factorial\Factorial\obj\Debug\net6.0\ref\Factorial.dll
